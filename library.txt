@@ -1,0 +1,4 @@
+java 123 saeed 3 321 0
+Python 124 saadaan 4 543 1
+PHP 345 Ali 8 844 0
+Maths 345 Ahmad 7 890 0
